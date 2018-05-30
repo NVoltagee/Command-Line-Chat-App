@@ -1,0 +1,11 @@
+# Ignore node_modules
+node_modules
+
+# Ignore package-lock.json
+package-lock.json
+
+# Ignore package.json
+package.json
+
+#Ignore server.js
+server.js
