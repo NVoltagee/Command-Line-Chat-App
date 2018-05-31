@@ -9,3 +9,6 @@ package.json
 
 #Ignore server.js
 server.js
+
+#Ignore .eslintrc.json
+.eslintrc.json
